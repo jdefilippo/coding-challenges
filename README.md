@@ -8,7 +8,7 @@ Currently, I am using [LeetCode](https://leetcode.com/) as a question bank.
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](https://leetcode.com/problems/two-sum/)
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](https://leetcode.com/problems/two-sum/)
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](https://leetcode.com/problems/two-sum/)
-9 | [Palindrome Number](https://leetcode.com/problems/regular-expression-matching/) | [C++](https://leetcode.com/problems/two-sum/)
+9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](https://leetcode.com/problems/two-sum/)
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](https://leetcode.com/problems/two-sum/)
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](https://leetcode.com/problems/two-sum/)
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](https://leetcode.com/problems/two-sum/)
