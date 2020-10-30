@@ -24,7 +24,7 @@ Currently, I am using [LeetCode](https://leetcode.com/) as a question bank.
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/swap_nodes_in_pairs.py)
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./python/remove_duplicates.py)
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./python/two_sum.py), [C++](./cpp/search_in_rotated_sorted_array.cpp)
-35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/search_insert_position.py),[C++](./cpp/search_insert_position.cpp)
+35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/search_insert_position.py), [C++](./cpp/search_insert_position.cpp)
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./python/valid_sudoku.py)
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/combination_sum.py)
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./python/first_missing_positive.py)
