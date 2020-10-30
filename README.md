@@ -1,7 +1,7 @@
 # coding-challenges
 
 This documents my progress on various coding challenges, mostly written in C++ or Python.
-Currently, I am using LeetCode: https://leetcode.com/
+Currently, I am using [LeetCode](https://leetcode.com/) as a question bank.  
 
 | # | Title | Solution | 
 ------------ | ------------- | -------------
@@ -10,7 +10,7 @@ Currently, I am using LeetCode: https://leetcode.com/
 1 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](https://leetcode.com/problems/two-sum/)
 1 | [Palindrome Number](https://leetcode.com/problems/regular-expression-matching/) | [C++](https://leetcode.com/problems/two-sum/)
 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](https://leetcode.com/problems/two-sum/)
-1 | [Container With Most Water  ](https://leetcode.com/problems/container-with-most-water/) | [C++](https://leetcode.com/problems/two-sum/)
+1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](https://leetcode.com/problems/two-sum/)
 1 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](https://leetcode.com/problems/two-sum/)
 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](https://leetcode.com/problems/two-sum/)
 1 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](https://leetcode.com/problems/two-sum/)
